@@ -1,0 +1,7 @@
+argparse
+openpyxl
+pandas
+androguard
+pyopenssl==24.1.0
+cryptography==42.0.7
+tqdm
